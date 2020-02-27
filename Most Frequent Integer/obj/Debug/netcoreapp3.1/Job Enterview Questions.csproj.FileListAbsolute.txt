@@ -1,0 +1,22 @@
+/Users/thomaswilliams/Work Space/Job Enterview Questions/bin/Debug/netcoreapp3.1/Job Enterview Questions
+/Users/thomaswilliams/Work Space/Job Enterview Questions/bin/Debug/netcoreapp3.1/Job Enterview Questions.deps.json
+/Users/thomaswilliams/Work Space/Job Enterview Questions/bin/Debug/netcoreapp3.1/Job Enterview Questions.runtimeconfig.json
+/Users/thomaswilliams/Work Space/Job Enterview Questions/bin/Debug/netcoreapp3.1/Job Enterview Questions.runtimeconfig.dev.json
+/Users/thomaswilliams/Work Space/Job Enterview Questions/bin/Debug/netcoreapp3.1/Job Enterview Questions.dll
+/Users/thomaswilliams/Work Space/Job Enterview Questions/bin/Debug/netcoreapp3.1/Job Enterview Questions.pdb
+/Users/thomaswilliams/Work Space/Job Enterview Questions/obj/Debug/netcoreapp3.1/Job Enterview Questions.csprojAssemblyReference.cache
+/Users/thomaswilliams/Work Space/Job Enterview Questions/obj/Debug/netcoreapp3.1/Job Enterview Questions.AssemblyInfoInputs.cache
+/Users/thomaswilliams/Work Space/Job Enterview Questions/obj/Debug/netcoreapp3.1/Job Enterview Questions.AssemblyInfo.cs
+/Users/thomaswilliams/Work Space/Job Enterview Questions/obj/Debug/netcoreapp3.1/Job Enterview Questions.dll
+/Users/thomaswilliams/Work Space/Job Enterview Questions/obj/Debug/netcoreapp3.1/Job Enterview Questions.pdb
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/bin/Debug/netcoreapp3.1/Job Enterview Questions
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/bin/Debug/netcoreapp3.1/Job Enterview Questions.deps.json
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/bin/Debug/netcoreapp3.1/Job Enterview Questions.runtimeconfig.json
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/bin/Debug/netcoreapp3.1/Job Enterview Questions.runtimeconfig.dev.json
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/bin/Debug/netcoreapp3.1/Job Enterview Questions.dll
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/bin/Debug/netcoreapp3.1/Job Enterview Questions.pdb
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/obj/Debug/netcoreapp3.1/Job Enterview Questions.csprojAssemblyReference.cache
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/obj/Debug/netcoreapp3.1/Job Enterview Questions.AssemblyInfoInputs.cache
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/obj/Debug/netcoreapp3.1/Job Enterview Questions.AssemblyInfo.cs
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/obj/Debug/netcoreapp3.1/Job Enterview Questions.dll
+/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/obj/Debug/netcoreapp3.1/Job Enterview Questions.pdb
