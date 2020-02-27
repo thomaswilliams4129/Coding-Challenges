@@ -15,8 +15,8 @@ namespace Job_Enterview_Questions
     {
         /* Method returns the most Frequent Intger in a Array. */
         public int mostFrequentInteger(int[] array) {
-            int mostFrequentInteger = 0;
-            int mostFrequentCount = 0;
+            int mostFrequentInteger = int.MinValue;
+            int mostFrequentCount = int.MinValue;
             /* Stores the Integer and its Frequency
                 * Key = Integer
                 * Value = Count
