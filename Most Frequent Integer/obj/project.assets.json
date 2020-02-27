@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/Job Enterview Questions.csproj",
+      "projectUniqueName": "/Users/thomaswilliams/Work Space/Job Enterview Questions/Coding-Challenges/Most Frequent Integer/Job Enterview Questions.csproj",
       "projectName": "Job Enterview Questions",
-      "projectPath": "/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/Job Enterview Questions.csproj",
+      "projectPath": "/Users/thomaswilliams/Work Space/Job Enterview Questions/Coding-Challenges/Most Frequent Integer/Job Enterview Questions.csproj",
       "packagesPath": "/Users/thomaswilliams/.nuget/packages/",
-      "outputPath": "/Users/thomaswilliams/Work Space/Job Enterview Questions/Most Frequent Integer/obj/",
+      "outputPath": "/Users/thomaswilliams/Work Space/Job Enterview Questions/Coding-Challenges/Most Frequent Integer/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
