@@ -18,14 +18,14 @@ func printChristmasTree(height: Int) {
     var starCount = 1
     
     // number of stars in the base
-    var maxColumns = height * 2 - 1
+    let maxColumns = height * 2 - 1
     
     // loop to print stars
     for i in 1...height {
         
         // number of spaces / 2
         // only need half to print in front of stars to space them
-        var numOfSpaces = (maxColumns - starCount) / 2
+        let numOfSpaces = (maxColumns - starCount) / 2
         
         // create string of spaces
         let spaces = String(repeating: " ", count: numOfSpaces)
